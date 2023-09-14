@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+   <script src="script.js"></script>
+<body>
+  <h1>Genshin Quote Generator</h1>
+  <h4>Random Quote Generator</h4>
+  <p id = "q">"Only innocent children and timid adults are scared of thunder. But you're not either of those... are you?" - Yelan</p>
+  <button id = "btn">
+    Generate Quote
+  </button>
+</body>
+
+</html>
